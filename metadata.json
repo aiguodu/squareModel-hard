@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Geometry Tutorial",
+  "description": "A step-by-step interactive geometry tutorial with animated SVG and TTS subtitle overlay.",
+  "requestFramePermissions": []
+}
